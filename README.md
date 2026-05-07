@@ -30,11 +30,11 @@ The processed signal is then visualized in real-time on an OLED display and also
 
 ##  Block Diagram
 
-[Block Diagram](block_diagram.jpeg)
+[Block Diagram](block_diagram.jpg)
 
 ##  Circuit Diagram
 
-[Circuit Diagram](circuit_diagram.jpeg)
+[Circuit Diagram](circuit_diagram.jpg)
 
 ##  Working
 
@@ -51,7 +51,7 @@ This helps in observing heart signal patterns more clearly.
 
 ##  Demo / Output
 
-(Add video or waveform images here)
+vedio_ecg.mp4
 
 ##  How to Run
 
@@ -76,4 +76,5 @@ This helps in observing heart signal patterns more clearly.
 
 ##  Output
 
-(Add before and after filtering waveform images)
+Output1.jpg
+Output2.jpg
